@@ -1,7 +1,7 @@
 {
     "Name": "fMRI: resting state and arithmetic task",
     "BIDSVersion": "1.2.1",
-    "License": "Creative Commons 'Attribution' (CC BY) 4.0.",
+    "License": "CC0",
     "Authors": [
         "Yana Panikratova",
         "Alexander Tomyshev",
@@ -16,5 +16,5 @@
     "ReferencesAndLinks": [
         "Here will be a link from JINS"
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "10.18112/openneuro.ds002422.v1.0.0"
 }
