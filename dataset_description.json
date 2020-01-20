@@ -13,6 +13,8 @@
     "Funding": [
         "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "Here will be a reference from JINS"
+    ],
     "DatasetDOI": "10.18112/openneuro.ds002422.v1.0.0"
 }
