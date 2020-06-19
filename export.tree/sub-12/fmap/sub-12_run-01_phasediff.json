@@ -1,0 +1,6 @@
+{
+    "EchoTime1": 0.00476,
+    "EchoTime2": 0.00952,
+    "IntendedFor": ["func/sub-12_task-arithm_run-01_bold.nii.gz",
+                    "func/sub-12_task-arithm_run-02_bold.nii.gz"]
+}
